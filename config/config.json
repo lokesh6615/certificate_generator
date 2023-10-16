@@ -1,0 +1,16 @@
+{
+    "development": {
+      "username": "root",
+      "password": "root",
+      "database": "lms_simplified_new",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "admin",
+      "password": "admin123",
+      "database": "lms_simplified",
+      "host": "102.168.0.1",
+      "dialect": "mysql"
+    }
+}
